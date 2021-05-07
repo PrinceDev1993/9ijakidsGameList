@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/9ijakidsGameList/static/css/main.feaadf62.chunk.css",
+    "main.js": "/9ijakidsGameList/static/js/main.b8299766.chunk.js",
+    "main.js.map": "/9ijakidsGameList/static/js/main.b8299766.chunk.js.map",
+    "runtime-main.js": "/9ijakidsGameList/static/js/runtime-main.75a8d057.js",
+    "runtime-main.js.map": "/9ijakidsGameList/static/js/runtime-main.75a8d057.js.map",
+    "static/js/2.179658ad.chunk.js": "/9ijakidsGameList/static/js/2.179658ad.chunk.js",
+    "static/js/2.179658ad.chunk.js.map": "/9ijakidsGameList/static/js/2.179658ad.chunk.js.map",
+    "index.html": "/9ijakidsGameList/index.html",
+    "static/css/main.feaadf62.chunk.css.map": "/9ijakidsGameList/static/css/main.feaadf62.chunk.css.map",
+    "static/js/2.179658ad.chunk.js.LICENSE.txt": "/9ijakidsGameList/static/js/2.179658ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75a8d057.js",
+    "static/js/2.179658ad.chunk.js",
+    "static/css/main.feaadf62.chunk.css",
+    "static/js/main.b8299766.chunk.js"
+  ]
+}
